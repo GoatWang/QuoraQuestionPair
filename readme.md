@@ -1,1 +1,1 @@
-﻿data file you can direct get from [Kaggle](https://www.kaggle.com/c/quora-question-pairs).
+﻿data file you can directly get from [Kaggle](https://www.kaggle.com/c/quora-question-pairs).
